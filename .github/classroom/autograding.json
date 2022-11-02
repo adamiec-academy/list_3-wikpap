@@ -1,0 +1,54 @@
+{
+  "tests": [
+    {
+      "name": "Test Task 1",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest -vv -k task_1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Test Task 2",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest -vv -k task_2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Test Task 3",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest -vv -k task_3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Test Task 4",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest -vv -k task_4",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Test Task 5",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest -vv -k task_5",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
